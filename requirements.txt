@@ -1,0 +1,25 @@
+# Python Version
+# Ensure you are using Python 3.8 or later
+
+# Core FastAPI dependencies
+fastapi==0.95.2
+pydantic==1.10.7
+uvicorn==0.22.0
+
+# Numerical computations and data manipulation
+numpy==1.24.3
+pandas==1.5.3
+
+# Computer Vision libraries
+opencv-python-headless==4.7.0.72
+torch==2.0.1  # Refer to the SAM installation guide for compatible PyTorch versions: https://github.com/facebookresearch/segment-anything
+
+# Segment Anything Model (SAM) dependencies
+segment-anything==1.0.0
+
+# YOLO dependencies
+ultralytics==8.0.43
+
+# Additional utilities
+scikit-learn==1.2.2
+matplotlib==3.7.1
