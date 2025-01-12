@@ -6,8 +6,8 @@ NutriVision is an innovative Android application designed to enhance dietary man
 
 ![IMG-20250112-WA0019](https://github.com/user-attachments/assets/fe7df05c-c839-4ece-9d00-e62c3ca836d7)   ![IMG-20250112-WA0005](https://github.com/user-attachments/assets/92afb8ac-5e12-4678-8779-e46572bd6f23)  ![IMG-20250112-WA0006](https://github.com/user-attachments/assets/cca8e38b-7640-4cf2-8505-cd880ee3d660)
 
-- For more application snapshots, refer to the `[images](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#installation)` folder.
- [images](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#installation)
+- For more application snapshots, refer to the [images](https://github.com/Dhanush0R/NutriVision-YOLO-SAM-Driven-Dietary-App/edit/master/images) folder.
+
 
 ---
 ![IMG-20250112-WA0025](https://github.com/user-attachments/assets/9ffb2701-6c04-47e4-a756-bffa7b81c5d9)   ![IMG-20250112-WA0023](https://github.com/user-attachments/assets/881c4432-94a0-4e4a-a810-c62cebbc3495)   ![IMG-20250112-WA0026](https://github.com/user-attachments/assets/241a77b0-80f1-4031-a653-7d6608236463)
