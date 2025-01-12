@@ -28,6 +28,12 @@ NutriVision is an innovative Android application designed to enhance dietary man
 
 ---
 
+## architecture
+
+![image](https://github.com/user-attachments/assets/516fc27b-690b-4d44-a08b-2b08bf1befa8)
+
+---
+
 ## How to Run
 
 ### Prerequisites
