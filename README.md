@@ -4,7 +4,13 @@
 
 NutriVision is an innovative Android application designed to enhance dietary management. It allows users to capture meal images, analyze their nutritional value, and receive personalized food recommendations. By leveraging advanced models like YOLO and SAM, the app provides accurate segmentation and identification of food items. Using user health data such as age, sex, BMI, and specific health conditions, NutriVision calculates tailored nutritional intake. The app also features a dashboard for users to monitor their daily calorie and macronutrient intake, helping them achieve their dietary goals.
 
+![IMG-20250112-WA0019](https://github.com/user-attachments/assets/fe7df05c-c839-4ece-9d00-e62c3ca836d7)   ![IMG-20250112-WA0005](https://github.com/user-attachments/assets/92afb8ac-5e12-4678-8779-e46572bd6f23)  ![IMG-20250112-WA0006](https://github.com/user-attachments/assets/cca8e38b-7640-4cf2-8505-cd880ee3d660)
+
+- For more application snapshots, refer to the `[images](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#installation)` folder.
+ [images](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#installation)
+
 ---
+![IMG-20250112-WA0025](https://github.com/user-attachments/assets/9ffb2701-6c04-47e4-a756-bffa7b81c5d9)   ![IMG-20250112-WA0023](https://github.com/user-attachments/assets/881c4432-94a0-4e4a-a810-c62cebbc3495)   ![IMG-20250112-WA0026](https://github.com/user-attachments/assets/241a77b0-80f1-4031-a653-7d6608236463)
 
 ## Features
 
@@ -30,6 +36,9 @@ Ensure the following are installed on your system:
 - Python 3.8 or higher
 - FastAPI
 - Required Python libraries: `torch`, `pydantic`, `opencv-python`, `pandas`, `matplotlib`, `scikit-learn`
+#### Notes:
+ - **Python Version:** Ensure you are using Python 3.8 or later for compatibility with the listed packages and the SAM and YOLO models.
+ - **PyTorch Version:** Refer to the Segment Anything installation guide for compatible PyTorch versions to avoid any issues with the SAM model setup.
 
 ### Installation
 
